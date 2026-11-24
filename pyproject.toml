@@ -1,0 +1,9 @@
+[project]
+name = "api-chamados-suporte"
+version = "0.1.0"
+description = "API inicial de chamados de suporte"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "flask>=3.0.0"
+]
